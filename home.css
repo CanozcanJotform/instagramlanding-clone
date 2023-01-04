@@ -39,6 +39,7 @@ body {
     margin-top: 27px;
     padding-top: 14px;
     padding-bottom: 14px;
+    border-radius: 5px;
 }
 header {
     border-bottom: 1.5px solid lightgray;
@@ -128,6 +129,7 @@ padding: 8px 12px;
     justify-content: space-between;
     align-items: center;
     border-top: 1px solid lightgray;
+    border-radius: 5px;
 }
 .unitedsection {
     display: flex;
