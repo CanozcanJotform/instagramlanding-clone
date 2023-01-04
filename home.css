@@ -1,0 +1,254 @@
+body {
+    max-width: 1920px;
+    font-family: Roboto;
+    color: #262626;
+}
+.general {
+    width: 100vw;
+}
+.main-header {
+    display: flex;
+    max-width: 935px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 9px;
+}
+.button-section {
+    display: flex;
+    gap: 22px;
+    margin-right: -100px;
+    margin-left: 100px;
+}
+.button-section > a {
+    text-decoration: none;
+}
+.search-section > input {
+    padding: 4px 18px;
+    padding-left: 60px;
+    border: 1.5px solid lightgray;
+}
+.left-main {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    border: 1.5px solid lightgray;
+    max-width: 615px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 27px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+header {
+    border-bottom: 1.5px solid lightgray;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  
+}
+.general-container {
+    display: flex;
+    flex-direction: column;
+}
+.main-section {
+    display: flex;
+    justify-content: center;
+}
+.terrylucas {
+    display: flex;
+    max-width: 614px;
+    width: 100%;
+    gap: 16px;
+    margin-left: 21px;
+
+}
+.click > img {
+    cursor: pointer;
+}
+.click {
+    display: flex;
+    justify-content: space-between;
+}
+.mid-section {
+    max-width: 615px;
+    width: 100%;
+    margin: 0 auto;
+    border: 1.5px solid lightgray;
+    padding-top: 6px;
+    border-top: none;
+}
+.terryanddot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post {
+    margin-top: 13px;
+}
+.dot-img > img {
+border: 1.5px solid;
+padding: 8px 12px;
+}
+
+.click1, .action-section {
+  margin-left: 16px;
+}
+.click2 {
+  margin-right: 16px;
+}
+.dot-img {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.light-weight {
+  color: gray;
+  font-size: 14px
+}
+.terrylucas  p {
+  align-self: center;
+  font-weight: bold;
+}
+.likes {
+  margin-bottom: 0px;
+  margin-top: 5px;
+  font-size: 14px;
+}
+.luca {
+  margin-top: 5px;
+}
+.main-header, .main-section {
+    flex-wrap: wrap;
+}
+.smile-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid lightgray;
+}
+.unitedsection {
+    display: flex;
+}
+.luca {
+    font-size: 14px;
+}
+.right-main {
+    margin-top: 30px;
+    margin-left: 30px;
+    max-width: 350px;
+    width: 100%;
+}
+.container-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.switch-section > a {
+    text-decoration: none;
+    color: blue;
+}
+.suggestionsee-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.follow1-section, .follow2-section, .follow3-section, .follow4-section, .follow5-section  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+}
+.text-shirley-section {
+  margin-right: auto;
+  margin-left: 20px;
+}
+.instagram-section {
+  margin-right: auto;
+}
+.infos {
+  word-spacing: 2px;
+  color: gray;
+  margin-top: 20px;
+}
+.for-you > p {
+  font-size: 14px;
+  color: gray;
+}
+.text-shirley-section2 >h6, p {
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+}
+.switch-section > p {
+  font-size: 12px;
+  color: #0095F6;
+  cursor: pointer;
+}
+.see-all-section > h6 {
+  font-size: 12px;
+}
+.your-story {
+  margin-left: 12px;
+}
+.follow-button {
+  color: #0095F6;;
+}
+.post-section > p {
+  color: #0095F6;;
+}
+.post-section {
+  margin-left: auto;
+  margin-right: 20px;
+}
+.smile-part {
+  align-self: flex-end;
+  margin-left: 20px;
+}
+
+.text-shirley-section > p {
+  margin-top: 10px;
+  color: gray;
+  
+}
+.text-shirley-section > h6 {
+  font-size: 14px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.view {
+  margin-top: 5px;
+}
+.hour {
+  margin-top: 8px;
+  margin-bottom: 18px;
+}
+.follow2-section, .follow3-section, .follow4-section, .follow5-section {
+  margin-top: 10px;
+}
+.amy {
+  position: relative;
+}
+.arrow {
+  position: absolute;
+  top: 22px;
+  right: 20px;
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 3px;
+  padding-left: 7px;
+  padding-right: 8px;
+  border-color: white ;
+  background-color: #f2f2f2;
+}
+.story-img {
+  border: 3px solid;
+  padding: 2px;
+  border-radius: 50px;
+  border-color: #DE0046;
+}
+.story-img2 {
+  
+}
