@@ -161,7 +161,7 @@ padding: 8px 12px;
 .follow1-section, .follow2-section, .follow3-section, .follow4-section, .follow5-section  {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 20px;
 }
 a {
     text-decoration: none;
@@ -202,6 +202,7 @@ a {
 }
 .follow-button {
   color: #0095F6;;
+  margin-left: auto;
 }
 .post-section > p {
   color: #0095F6;;
@@ -273,4 +274,10 @@ input::placeholder {
   border-radius: 50px;
   border-color: #DE0046;
   margin-left: 6px;
+}
+.follow-p {
+  font-size: 11px;
+}
+.follow1-p {
+  font-size: 14px;
 }
